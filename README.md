@@ -1,1 +1,2 @@
 # SparrowOS
+Small but complete. 
